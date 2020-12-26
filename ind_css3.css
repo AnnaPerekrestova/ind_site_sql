@@ -1,0 +1,29 @@
+body{
+ background-image: url("ind_ph.jpg");
+}
+a{
+ color: black;
+}
+a:hover{
+ text-decoration: none;
+}    
+.container{
+ width:450px;
+ height: 550px;
+ 
+ margin: 20px auto 0 auto;
+
+ text-align: center;
+}   
+
+
+.dws-submit {
+ padding: 9px 25px;
+ margin: 5px 0 20px 0;
+ font-size: 13px;
+ color: black;
+ background-color: thistle;
+ border: none;
+ 
+ cursor: pointer;
+}    
